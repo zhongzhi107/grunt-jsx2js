@@ -1,0 +1,42 @@
+{
+  "name": "grunt-jsx2js",
+  "description": "Grunt task for compiling Facebook React's .jsx templates into .js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zhongzhi107/grunt-jsx2js",
+  "author": {
+    "name": "zhi.zhong",
+    "email": "zhi.zhong@163.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhongzhi107/grunt-jsx2js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhongzhi107/grunt-jsx2js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/zhongzhi107/grunt-jsx2js/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5",
+    "react-tools": "0.13.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin, react, JSX"
+  ]
+}

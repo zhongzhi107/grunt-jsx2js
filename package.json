@@ -1,7 +1,7 @@
 {
   "name": "grunt-jsx2js",
   "description": "Grunt task for compiling Facebook React's .jsx templates into .js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/zhongzhi107/grunt-jsx2js",
   "author": {
     "name": "zhi.zhong",
